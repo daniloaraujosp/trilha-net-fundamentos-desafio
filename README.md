@@ -1,6 +1,10 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
+## Desafio Resolvido
+Veja abaixo o desafio resolvido por Danilo Araujo:
+![Vídeo do desafio resolvido](desafio-resolvido.mp4)
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
