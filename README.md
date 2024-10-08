@@ -3,7 +3,8 @@ www.dio.me
 
 ## Desafio Resolvido
 Veja abaixo o desafio resolvido por Danilo Araujo:
-![Vídeo do desafio resolvido](desafio-resolvido.gif)
+
+https://github.com/user-attachments/assets/c09fa6b9-95c2-44c4-bc9f-9fb28f274206
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
